@@ -1,4 +1,4 @@
-Hi, I’m Venn, a third-year Honors Computer Science student at the University of Georgia! I am currently interested in learning about Financial Technology and Artificial Intelligence. 
+Hi, I’m Venn, a fourth-year Honors Computer Science student at the University of Georgia! I am currently interested in learning about Financial Technology and Artificial Intelligence. 
 
 I'm looking for software engineering or financial technology internships to explore the industry and develop experience by collaborating on real-world use projects.
 
